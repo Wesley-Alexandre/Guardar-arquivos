@@ -15,9 +15,3 @@ Este é um projeto simples para guardar e exibir certificados de cursos, eventos
 - **CSS**: Estilização do layout.
 - **JavaScript**: Interatividade, como o envio de certificados e exibição.
 - **Backend (Futuro)**: API para upload e armazenamento dos certificados no servidor (em breve).
-
-## Como Usar
-
-1. Clone este repositório:
-   ```bash
-   git clone https://github.com/seu-usuario/meus-certificados.git
